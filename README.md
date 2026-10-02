@@ -29,7 +29,7 @@
 
 ## Ссылка на опубликованный проект
 
-GitHub Pages: https://username.github.io/kr1-html-css-shop/
+GitHub Pages: https://cruddykot.github.io/kr1-html-css-shop/
 
 ## Постановка контрольной работы №1
 
